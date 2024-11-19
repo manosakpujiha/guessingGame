@@ -30,7 +30,7 @@ A simple console-based guessing game built with .NET 8. The application challeng
    ```bash
    cd guessingGame
 
- 3. Run the application:
+3. Run the application:
    ```bash
    dotnet run
 
